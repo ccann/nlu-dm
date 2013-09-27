@@ -1,3 +1,6 @@
+Dynamic Initiative Dialog Operator -- ADE component
+See manuscript.pdf
+
 BUILDING:
 ./ant slab
 
